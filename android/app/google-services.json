@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233467826587",
+    "project_id": "flutter-flash-chat-73c51",
+    "storage_bucket": "flutter-flash-chat-73c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233467826587:android:e01a99bfd4c6760ac8113e",
+        "android_client_info": {
+          "package_name": "com.suyash.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233467826587-lrgg0r1071u54aqudbgoc587nr0e0sr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuqMnZawfD0gXFAjFfhCpDL7fuP3uY60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233467826587-lrgg0r1071u54aqudbgoc587nr0e0sr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
